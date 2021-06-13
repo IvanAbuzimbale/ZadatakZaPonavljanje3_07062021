@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +11,7 @@ namespace ZadatakZaPonavljanje_3_07062021
         public bool Opasnost (bool opasna)
         {
             opasna = false;
-            return false;
+            return opasna;
         }
     }
 }
