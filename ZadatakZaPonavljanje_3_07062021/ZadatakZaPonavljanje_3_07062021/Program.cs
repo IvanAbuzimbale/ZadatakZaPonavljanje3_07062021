@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +11,7 @@ namespace ZadatakZaPonavljanje_3_07062021
         static void Main(string[] args)
         {
             Gepard g = new Gepard();
+            g.Opasnost(true);
         }
     }
 }
